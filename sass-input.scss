@@ -43,6 +43,7 @@ body {
     a {
       float: none;
       width: 100%;
+      text-align: center;
     }
     .right {
       float: none;
@@ -99,7 +100,7 @@ body {
   font-size: 20px;
   cursor: pointer;
   color: white;
-  font-family: "Poiret one", cursive;
+  font-family: $font-stack;
   text-decoration: none;
   border-radius: 8px;
   margin-top: 30px;
